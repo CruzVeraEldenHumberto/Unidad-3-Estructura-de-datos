@@ -1,0 +1,7 @@
+c:\users\elden\source\repos\E3_3-Cruz Vera Elden Humberto\E3_3-Cruz Vera Elden Humberto\bin\Debug\E3_3-Cruz Vera Elden Humberto.exe.config
+c:\users\elden\source\repos\E3_3-Cruz Vera Elden Humberto\E3_3-Cruz Vera Elden Humberto\bin\Debug\E3_3-Cruz Vera Elden Humberto.exe
+c:\users\elden\source\repos\E3_3-Cruz Vera Elden Humberto\E3_3-Cruz Vera Elden Humberto\bin\Debug\E3_3-Cruz Vera Elden Humberto.pdb
+c:\users\elden\source\repos\E3_3-Cruz Vera Elden Humberto\E3_3-Cruz Vera Elden Humberto\obj\Debug\E3_3-Cruz Vera Elden Humberto.csprojResolveAssemblyReference.cache
+c:\users\elden\source\repos\E3_3-Cruz Vera Elden Humberto\E3_3-Cruz Vera Elden Humberto\obj\Debug\E3_3-Cruz Vera Elden Humberto.csproj.CoreCompileInputs.cache
+c:\users\elden\source\repos\E3_3-Cruz Vera Elden Humberto\E3_3-Cruz Vera Elden Humberto\obj\Debug\E3_3-Cruz Vera Elden Humberto.exe
+c:\users\elden\source\repos\E3_3-Cruz Vera Elden Humberto\E3_3-Cruz Vera Elden Humberto\obj\Debug\E3_3-Cruz Vera Elden Humberto.pdb
